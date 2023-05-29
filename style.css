@@ -1,0 +1,42 @@
+:root {
+    --cor-clara: #ffdcad;
+    --cor-escura: #62753b;
+}
+
+body {
+    background: var(--cor-escura);
+    font: normal 1em Arial;
+}
+
+h1 {
+    color: var(--cor-clara);
+    text-align: center;
+}
+
+section {
+    background-color: var(--cor-clara);
+    border-radius: 1em;
+    padding: 1em;
+    width: 500px;
+    margin: auto;
+    box-shadow: 0.3em 0.3em 0.9em #00000067;
+}
+
+.resultado {
+    text-align: center;
+}
+
+.botao {
+    padding: 1em;
+    background-color: var(--cor-escura);
+    color: white;
+    font: normal 1em Arial;
+    border-radius: 1em;
+}
+
+.rodape {
+    color: var(--cor-clara);
+    font-size: 0.9em;
+    font-style: italic;
+    text-align: center;
+}
