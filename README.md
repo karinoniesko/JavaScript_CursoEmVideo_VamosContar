@@ -1,4 +1,4 @@
-# JavaScript_CursoEmVideo_VamosContar [em desenvolvimento]
+# JavaScript_CursoEmVideo_VamosContar
 Projeto desenvolvido no curso "JavaScript e ECMAScript para Iniciantes" da Curso em Vídeo, orientado pelo professor [Gustavo Guabnabara](https://github.com/gustavoguanabara).
 
 ![Captura de tela de 2023-05-29 21-20-42](https://github.com/karinoniesko/JavaScript_CursoEmVideo_VamosContar/assets/126200406/677650eb-efb9-4930-9bd2-989de602d61c)
